@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Sep 15 22:37:26 2024
+# Process ID: 11256
+# Current directory: C:/Users/arya2/Encoder_16bit/Encoder_16bit.runs/synth_1
+# Command line: vivado.exe -log encoder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source encoder.tcl
+# Log file: C:/Users/arya2/Encoder_16bit/Encoder_16bit.runs/synth_1/encoder.vds
+# Journal file: C:/Users/arya2/Encoder_16bit/Encoder_16bit.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source encoder.tcl -notrace
